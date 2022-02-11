@@ -1,4 +1,4 @@
 {
     "version": "1.6.0",
-    "info": "Fix Update"
+    "info": "Fix and Progressbar integration Update"
 }
