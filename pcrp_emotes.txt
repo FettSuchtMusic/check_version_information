@@ -1,4 +1,4 @@
 {
-    "version": "1.6",
-    "info": "11 Gangsign Animations"
+    "version": "1.7",
+    "info": "Fortnite Animations and fixed Bugs"
 }
