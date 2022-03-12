@@ -1,4 +1,4 @@
 {
-    "version": "1.6.0",
-    "info": "Fix and Progressbar integration Update"
+    "version": "1.6.1",
+    "info": "Fix and pcprp_core integration Update"
 }
