@@ -1,4 +1,4 @@
 {
-    "version": "1.4",
+    "version": "1.6
     "info": "Fix and pcrp_core integration Update"
 }
