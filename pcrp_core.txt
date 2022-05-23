@@ -1,4 +1,4 @@
 {
     "version": "2.1",
-    "info": "Bug fixed, integration: Discord Rich Presence, Realtime, Blips Team Tag, SaltyChat VoiceRange, Idle Camera, Ragdoll"
+    "info": "Bug fixed, Integration: Discord Rich Presence, Realtime, Blips Team Tag, SaltyChat VoiceRange, Idle Camera, Ragdoll"
 }
