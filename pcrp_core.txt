@@ -1,4 +1,4 @@
 {
-    "version": "2.0",
-    "info": "Fix and Update"
+    "version": "2.1",
+    "info": "Bug fixed, integration: Discord Rich Presence, Realtime, Blips Team Tag, SaltyChat VoiceRange, Idle Camera, Ragdoll"
 }
