@@ -1,4 +1,4 @@
 {
-    "version": "2.1",
-    "info": "Bug fixed, Integration: Discord Rich Presence, Realtime, Blips Team Tag, SaltyChat VoiceRange, Idle Camera, Ragdoll"
+    "version": "2.2",
+    "info": "Bug fixed, Integration: Discord Rich Presence, Real Time SaltyChat, VoiceRange, Custom Blips, Idlecam, Ragdoll, Desk bell System, Emergency NPC Medic / Doctor System, Pause Menu System, Team Tag"
 }
