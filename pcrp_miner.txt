@@ -1,4 +1,4 @@
 {
-    "version": "1.4",
-    "info": "Fix and Added feature for the BitCode Battle Pass Update"
+    "version": "1.0",
+    "info": "Release Update, Fix and Added feature for the BitCode Battle Pass Update"
 }
