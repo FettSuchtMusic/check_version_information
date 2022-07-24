@@ -1,4 +1,4 @@
 {
-    "version": "2.3",
-    "info": "Bug fixed, Integration: Sound System"
+    "version": "2.4",
+    "info": "Revised Sound System on the client and server side"
 }
