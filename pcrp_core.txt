@@ -1,4 +1,4 @@
 {
     "version": "2.5",
-    "info": "FiveM Asset Escrow & Encryption as well as Obfuscated & IP Locked only for Basic Core (pcrp_core) please report in Discord about your IP address. disscord.gg/NkG8nMBmzr"
+    "info": "FiveM Asset Escrow & Encryption as well as Obfuscated & IP Locked only for Basic Core (pcrp_core) please report in Discord about your IP address. https://discord.gg/NkG8nMBmzr"
 }
