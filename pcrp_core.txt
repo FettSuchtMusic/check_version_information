@@ -1,5 +1,7 @@
 {
     "version": "2.5",
-    "info": "FiveM Asset Escrow & Encryption as well as Obfuscated & IP Locked only for Basic Core (pcrp_core) please report in Discord about your IP address. https://discord.gg/NkG8nMBmzr",
-    "note": "This is a night vision test!"
+    "info": "FiveM Asset Escrow & Encryption as well as Obfuscated & IP Locked only for Basic Core (pcrp_core) please report in Discord about your IP address.",
+    "obfuscate": "This is a night vision test!",
+    "download": "Download it now on your keymaster.fivem.net",
+    "discord": "https://discord.gg/NkG8nMBmzr",
 }
