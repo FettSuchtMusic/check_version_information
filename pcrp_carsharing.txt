@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "info": "Release Update, Basic Core (pcrp_core) required!!",
+    "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked report your IP address in Discord.",
+    "download": "keymaster.fivem.net",
+    "discord": "discord.gg/NkG8nMBmzr",
+}
