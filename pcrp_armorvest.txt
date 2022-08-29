@@ -1,4 +1,4 @@
 {
-    "version": "1.0",
-    "info": "Release Update"
+    "version": "1.1",
+    "info": "If the Armor Vest value is 0, the vest will be removed automatically."
 }
