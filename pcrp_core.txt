@@ -1,7 +1,7 @@
 {
-    "version": "2.6",
-    "info": "Many important bugs have been fixed. config.lua has been readjusted.",
+    "version": "2.7",
+    "info": "NEW: WeatherAPI, Cable Car, SaltyChat UI.",
     "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked for Basic Core (pcrp_core) please report your IP address in Discord.",
-    "download": "keymaster.fivem.net",
+    "download": "popcornrp-scripts.com or keymaster.fivem.net",
     "discord": "discord.gg/NkG8nMBmzr",
 }
