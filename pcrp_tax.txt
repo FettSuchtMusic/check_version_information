@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "info": "Release Update",
+    "obfuscate": "PopcornRP Scripts Escrow & Encryption, Obfuscated & IP Locked. Please report your IP address in Discord for activation.",
+    "download": "popcornrp-scripts.com",
+    "discord": "discord.gg/NkG8nMBmzr",
+}
