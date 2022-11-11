@@ -1,6 +1,6 @@
 {
-    "version": "2.8",
-    "info": "NEW: Job objects, FIXED: client data. https://popcornrp.gitbook.io/popcornrp-documentation/",
+    "version": "3.0",
+    "info": "NEW: Blips update and New, Perks, Job Vehicles, Vehicle Settings ... | FIXED: client and server data. https://popcornrp.gitbook.io/popcornrp-documentation/",
     "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked for Basic Core (pcrp_core) please report your IP address in Discord.",
     "download": "popcornrp-scripts.com or keymaster.fivem.net",
     "discord": "discord.gg/NkG8nMBmzr",
