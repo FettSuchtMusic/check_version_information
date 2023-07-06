@@ -1,6 +1,6 @@
 {
-    "version": "3.3",
-    "info": "NEW: Hey, version 3.3 is released. All further information can be found in our documentation at https://popcornrp.gitbook.io/popcornrp-scripts/",
+    "version": "3.4",
+    "info": "NEW: Hey, version 3.4 is released. All further information can be found in our documentation at https://popcornrp.gitbook.io/popcornrp-scripts/",
     "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked for Basic Core (pcrp_core) please report your IP address in Discord.",
     "download": "popcornrp-scripts.com or keymaster.fivem.net",
     "discord": "discord.gg/NkG8nMBmzr",
