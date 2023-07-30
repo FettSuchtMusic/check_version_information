@@ -1,7 +1,7 @@
 {
-    "version": "3.4",
-    "info": "NEW: Hey, version 3.4 is released. All further information can be found in our documentation at https://popcornrp.gitbook.io/popcornrp-scripts/",
-    "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked for Basic Core (pcrp_core) please report your IP address in Discord.",
+    "version": "3.5",
+    "info": "NEW: Hey, version 3.5 is out. Now with a core system. So that soon ESX and QBcore will be supported. More information will come soon.",
+    "obfuscate": "This script is Obfuscated & IP Locked encrypted please report to us in Discord if something doesn't work.",
     "download": "popcornrp-scripts.com or keymaster.fivem.net",
     "discord": "discord.gg/NkG8nMBmzr",
 }
