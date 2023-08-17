@@ -1,6 +1,6 @@
 {
-    "version": "3.5",
-    "info": "NEW: Hey, version 3.5 is out. Now with a core system. So that soon ESX and QBcore will be supported. More information will come soon.",
+    "version": "4.0",
+    "info": "NEW: We are happy to announce the Basic Core (pcrp_core) Update 4.0! Now available for ESX, QBCore and Standalone - Discover limitless gaming possibilities.",
     "obfuscate": "This script is Obfuscated & IP Locked encrypted please report to us in Discord if something doesn't work.",
     "download": "popcornrp-scripts.com or keymaster.fivem.net",
     "discord": "discord.gg/NkG8nMBmzr",
