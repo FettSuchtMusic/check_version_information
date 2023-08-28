@@ -1,5 +1,5 @@
 {
-    "version": "1.6",
+    "version": "1.8",
     "info": "NEW: Blips update and New... | FIXED: client and server data. https://popcornrp.gitbook.io/popcornrp-documentation/",
     "obfuscate": "PopcornRP Scripts Escrow & Encryption as well as Obfuscated & IP Locked. Please register in Discord to enter your server IP address.",
     "download": "popcornrp-scripts.com or keymaster.fivem.net",
