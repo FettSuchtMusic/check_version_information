@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "info": "Release",
+    "obfuscate": "This script is Obfuscated & IP Locked encrypted please report to us in Discord if something doesn't work.",
+    "download": "popcornrp-scripts.com",
+    "discord": "discord.gg/NkG8nMBmzr",
+}
