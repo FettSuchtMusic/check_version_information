@@ -2,6 +2,6 @@
     "version": "4.4",
     "info": "UPDATE: Important update! We fixed a lot of things.",
     "obfuscate": "This script is Obfuscated & IP Locked encrypted please report to us in Discord if something doesn't work.",
-    "download": "popcornrp-scripts.com",
+    "download": "https://popcornrp-scripts.com or https://instant-code.com",
     "discord": "discord.gg/NkG8nMBmzr",
 }
