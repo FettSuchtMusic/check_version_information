@@ -1,5 +1,5 @@
 {
-    "version": "4.4",
+    "version": "4.5",
     "info": "UPDATE: Important update! We fixed a lot of things.",
     "obfuscate": "This script is Obfuscated & IP Locked encrypted please report to us in Discord if something doesn't work.",
     "download": "https://popcornrp-scripts.com or https://instant-code.com",
